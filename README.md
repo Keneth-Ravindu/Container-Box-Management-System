@@ -71,3 +71,14 @@ Provides a **Java Swing GUI** for interacting with the `Stack` of `Box` objects.
 - 🎨 Improve **UI design** for better user experience.
 
 ---
+## Screenshots
+
+![ContainerSS1](https://github.com/user-attachments/assets/3d8fe001-60c7-469a-844e-367af98a077f)
+![ContainerSS2](https://github.com/user-attachments/assets/016e015f-d0da-4ab4-b7dd-ab8242f77b99)
+![ContainerSS3](https://github.com/user-attachments/assets/1055411b-fab2-451c-bd38-5ac0cf96a565)
+![ContainerSS4](https://github.com/user-attachments/assets/29e0126b-8a9a-4f62-95b5-b13dd4c4901b)
+![ContainerSS5](https://github.com/user-attachments/assets/c0a71f1a-9955-4893-a37f-6d2a51818001)
+![ContainerSS6](https://github.com/user-attachments/assets/cb09a7ef-992b-40f4-a488-90085b84d456)
+
+
+
